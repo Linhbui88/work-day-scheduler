@@ -1,0 +1,36 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  background-color: #dfe6e9;
+  font-size: 16px;
+  line-height: 1;
+
+  }
+  .past {
+    background-color: white;
+    border-radius: 15px;
+    color: white;
+  }
+  
+  .present {
+    background-color: red;
+    border-radius: 15px;
+  }
+  
+  .future {
+    background-color: #0d5a44;
+    border-radius: 15px;
+  }
+  
+.saveBtn {
+  border-left: 1px solid rgb(82, 82, 82);
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+  background-color: #0984e3;
+  color: white;
+}
+.white-text {
+  color: white;
+}
+.hour{
+  color: black;
+}
